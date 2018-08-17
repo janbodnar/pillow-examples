@@ -1,4 +1,3 @@
-show_tkinter.py
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
